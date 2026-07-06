@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 06 Jul 2026 13:54:09 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 06 Jul 2026 17:00:08 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1535,6 +1535,14 @@
 			<pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Móstoles</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277201?2026-07-02</guid>
+		</item>
+		<item>
+			<title>1500€ Carabanchel</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277202</link>
+			<description>C/ San Deogracias, 32,&lt;br/&gt;2º con ascensor,&lt;br/&gt;59m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277202</description>
+			<pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Carabanchel</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277202?2026-07-02</guid>
 		</item>
 		<item>
 			<title>1250€ Hortaleza</title>
