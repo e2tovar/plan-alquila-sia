@@ -4634,5 +4634,27 @@
     "porteria": false,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 277215,
+    "publicado": "2026-07-07",
+    "direccion": "Ronda Atocha, 16",
+    "municipio": "Madrid",
+    "distrito": "Centro",
+    "planta": 5,
+    "precio": 1800,
+    "metros": 84.55,
+    "dormitorios": 3,
+    "aseos": 2,
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": true,
+    "piscina": false,
+    "porteria": true,
+    "trastero": false,
+    "imgs": []
   }
 ]
