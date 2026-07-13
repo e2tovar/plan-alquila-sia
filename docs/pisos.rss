@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 10 Jul 2026 14:34:18 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jul 2026 07:01:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -236,9 +236,9 @@
 			<title>1350€ Rivas-Vaciamadrid</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/262921</link>
 			<description>Av. Campillo de San Isidro, 4,&lt;br/&gt;1º con ascensor,&lt;br/&gt;99m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/262921</description>
-			<pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+			<pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Rivas-Vaciamadrid</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/262921?2026-07-06</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/262921?2026-07-13</guid>
 		</item>
 		<item>
 			<title>1250€ Fuencarral-El Pardo</title>
@@ -639,14 +639,6 @@
 			<pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
 			<category>Leganés</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276818?2026-03-12</guid>
-		</item>
-		<item>
-			<title>1300€ Villa de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276827</link>
-			<description>Av. La Gavia, 39,&lt;br/&gt;3º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/276827</description>
-			<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Villa de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276827?2026-06-17</guid>
 		</item>
 		<item>
 			<title>1575€ Ciudad Lineal</title>
