@@ -524,6 +524,28 @@
     ]
   },
   {
+    "id": 262271,
+    "publicado": "2026-07-15",
+    "direccion": "Calle Ferm\u00edn Caballero, 30",
+    "municipio": "Madrid",
+    "distrito": "Fuencarral-El Pardo",
+    "planta": 5,
+    "precio": 1750,
+    "metros": 110,
+    "dormitorios": 4,
+    "aseos": 2,
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 262540,
     "publicado": "2026-05-20",
     "direccion": "Calle Tom\u00e1s L\u00f3pez, 12",
