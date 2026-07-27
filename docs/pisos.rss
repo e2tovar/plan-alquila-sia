@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 27 Jul 2026 11:31:08 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jul 2026 14:45:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -335,14 +335,6 @@
 			<pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270663?2026-07-17</guid>
-		</item>
-		<item>
-			<title>1300€ Puente de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270752</link>
-			<description>C/ Puerto del Monasterio, 18,&lt;br/&gt;4º con ascensor,&lt;br/&gt;102m², 3 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/270752</description>
-			<pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270752?2026-05-07</guid>
 		</item>
 		<item>
 			<title>1650€ Hortaleza</title>
@@ -711,14 +703,6 @@
 			<pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276880?2026-03-31</guid>
-		</item>
-		<item>
-			<title>1500€ Usera</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276889</link>
-			<description>C/ Enrique Fuentes, 27,&lt;br/&gt;4º con ascensor,&lt;br/&gt;84m², 4 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/276889</description>
-			<pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Usera</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276889?2026-06-29</guid>
 		</item>
 		<item>
 			<title>1450€ Arganzuela</title>

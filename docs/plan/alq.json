@@ -800,33 +800,6 @@
     ]
   },
   {
-    "id": 270752,
-    "publicado": "2026-05-07",
-    "direccion": "Calle Puerto del Monasterio, 18",
-    "municipio": "Madrid",
-    "distrito": "Puente de Vallecas",
-    "planta": 4,
-    "precio": 1300,
-    "metros": 102,
-    "dormitorios": 3,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-mTf1opTURRKEoeBJh9lqoF9NKWVitWAkaT5PZcTNhdmYyM5usFIsKWtCD4sdNUNCLUs!-D4IeCoIXQb2IiB94ETw5u0matLinYed93nl-z!uuf4dioqF8MWjiNkYciwgt1ZuU2Lm7b88!njZHeQEgVQBQNBr2DqoqUnKKxZvD-uq7R39!FGCkBsU25gl11RZ2sxhH1GsqGjndwUhhjpiwVKPEMm6Qn12LBStfXH!97X1l7XkBxgIYw9xKC-XcjZe58XwniqieC6CIBWnIFqzCeADl0CxQQzRThEnR7WahNCRctpqJyOl2srB7n0tTtZWj17!0-cmzP9fWZh2H3-fQMD3gPZ3Edapvrj-cmXjw8XYvlMIrkzXd5dKpqt6xtDjqXpiXOkJYYdKgKL58CRNqUJvRDsqOnFqDKEfz0sGl9kQHa3oOR6eobcjwZKo0NcZRudCzb2TSTUDDgcxLmsm217WC!RO1O59-ZabcLDfrBp2e3ri1!Lu2cTy37dwdIjJGJhH!6-bHin84uzo7eeH-z-zlDHCq48GxIyv1xBAcSl1lDkWE-ExS58z9wRW3CUhhN-AqM1JfAdi-VL1pvNyofvk6s7LYX6qChX15xkyipcSqxLpCimM7HH13IZVKnfNeCkOBBpJgO5RWAUZ9GCeSJ7HwYYwzQd1iKWwbGcmOfJfrLtZ7FnzPUJJo6jFBeBJSr90DU30wzyG3-rhmk9fkkxPUZYHSho15Zwr2EGfc0u6NTdU!2SIkNQ__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2mlLKxWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqWf!B0EPBcGLoF5ExA-8CJ6c3SRNLO5p2Hmfd57f877r36CUaKhcCFq4gxHHIkJLjRYldu7Om3OPps0RXgBIFQCUjIY9w6qqlJxi8fqQvvL24Z!vBRirQ6mDeUJdtYVdLMYR9VqKRk53IFKYIyYs1SixjBvkZ9diwcrn1159fVdde1aAYgBFzK20UMndeJkbz3eiiOq5AEpYkKZswyqMB1AJzQI1RDNFmBS9bhbKI8Jlq5mInG4HC3v3uTRV!3L0-5c!PX76--rarOPwBxwapoe8p5K4QfWN9QczE!c!3OqHUnhpsqY7XTo11T-WF4vuhXmpI4QVJk2K4ksXMaEGdRjtouzIqTWIcjQvHVxqj3expmdxdJLapgxPpEpTYxyVCz37xibdBDTsz7ykmWxrXTvYN1G!!fFnZsrNcrNu2OnJ9ZvLv-obx3Lbzt1BImNkEvG!bn6s-Pszq7OT5-!9yF7OAKe6Hhw9vNJIDMGh1DXmUESITycNztwfXHWbgBR2A64xI!VlgK1L1Z!Gi43a5y8zK4uDpSpY2JtnzCRaSqxKrCukOLaj0fcWUqnUOe-nMBJoIAm2I2kVYJsP40TyJBY-FDkT1C2WwraZkWzPd7nhYr1rwfcMJYmmHhOEJyH1On0wNQDzHHJ7gGs2eU0-OUFdFiht2ph3p2A3ccYt7d3YVP0F2ygkNg__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2mlLKxWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqWf!B0EPBcGLoF5ExA-8CJ6c3SRNLO5p2Hmfd57f877r36CUaKhcCFq4gxHHIkJLjRYldu7Om3OPps0RXgBIFQCUjIY9w6qqlJxi8fqQvvL24Z!vBRirQ6mDeUJdtYVdLMYR9VqKRk53IFKYIyYs1SixjBvkZ9diwcrn1159fVdde1aAYgBFzK20UMndeJkbz3eiiOq5AEpYkKZswyqMB1AJzQI1RDNFmBS9bhbKI8Jlq5mInG4HC3v3uTRV!3L0-5c!PX76--rarOPwBxwapoe8p5K4QfWN9QczE!c!3OqHUnhpsqY7XTo11T-WF7Ok5qWOEFaYNCmKL13EhBrUYbSLsiOn1iDK0bx0cKk93sWansXRSWqbMjyRKk2NcVQu9Owbm3QT0LA!85Jmsq117WDfRP32x5-ZKTfLzbphpyfXby7!qm8cy207dweJjJFJxP-6-bHi78-szk6ev!cjezkDnOp6cPTwSiMxBIdS15hDESE-nTQ4c39w1W0CUtgNuMaM1JcBti5VfxovNmqfv8ysLA6WqmBhb54xk2gpsSqxrpDi2I5G31tIpVLnvJ!CSKCBJNiOpFWAbT6ME8mTWPhQ5ExQt1gK22ZGsj3f5YaL9a4F3zOUJJp6TBCehNTr9MHUAMxzyO0BrtnkNfnkBHVZoLRpY96dgt3EGbe0d2NT9RfdLiQ3"
-    ]
-  },
-  {
     "id": 271122,
     "publicado": "2026-07-02",
     "modificado": "2026-07-13",
@@ -1971,30 +1944,6 @@
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks9rE0EUx19jUn-00poIolAUPIkwey3Ui2lEFlYrVoLW02R23EyYnZnMzCYrxaKCFvSg-OMmKOhFqXf!BkEPBcGLoF5EpCpeBE!ObpImFvc07Lzvm-!n-97aBpQSDZWLQQt3MOJYRGih0aLEzt19e!7xtDnCCwCpAoCS0bBnWFWVklMs3hzSV989-vO9AGNLUOpgnlBXbWEXi3FEvZaikdMdiBTmiAlLNUos4wb52bWoWfni-utv76urzwtQDKCIuZUWKrkbL3Pj-U4UUT0XQAkL0pRtWIHxACqhqVFDNFOESdHrZqE8Ily0monI6XawsHefS1P1L0e!f!nzk2e!r63OOg5!wKFhesh7OokbVN9cezgz8eDj7X4ohVcma7rTpVNX!WO5tuFemJc6Qlhh0qQovnwJE2pQh9Euyo6cWoMoR!PSwaX2eBdreg5Hp6htyvBEqjQ1xlG50LNvbNJNQMP-zEuaybbWtYN9E0t3Pv3MTLlZbtYNOz29cWvx19L6sdy2c3eQyBiZRPyvmx8r!uHsyuzkhfs!spczwKmuB0cPLzcSQ3AodZ05FBHiM0mDM!cHV90mIIXdgOvMSH0FYOtS9afxcr3-5evM8snBUhUs7M0zZhItJFYl1hVSHNvR6HsLqVTqnPdTGAk0kATbkbQKsM2HcSJ5EgsfipwJ6hZLYdvMSLbnu9xwsd6z4HuGkkRTjwnCk5B6nT6YGoB5Drk9wDWbvCafnKAuC5Q2bcy7U7CbOOOW9m5sqv4CrsIlHQ__",
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks9rE0EUx19jUn-00poIolAUPIkwey3Ui2lEFlYrVoLW02R23EyYnZnMzCYrxaKCFvSg-OMmKOhFqXf!BkEPBcGLoF5ExCpeBE!ObpImFvc07Lzvm-!n-97adyglGioXgxbuYMSxiNBCo0WJnbv79vzjaXOEFwBSBQAlo2HPsKoqJadYvDmkr7579GejAGNLUOpgnlBXbWEXi3FEvZaikdMdiBTmiAlLNUos4wb52bWoWfni-utv76urzwtQDKCIuZUWKrkbL3Pj-U4UUT0XQAkL0pRtWIHxACqhqVFDNFOESdHrZqE8Ily0monI6XawsHefS1P1L0e!f!nzk2e!r63OOg5!wKFhesh7OokbVN9cezgz8eDj7X4ohVcma7rTpVNX!WO5tuFemJc6Qlhh0qQovnwJE2pQh9Euyo6cWoMoR!PSwaX2eBdreg5Hp6htyvBEqjQ1xlG50LNvbNJNQMP-zEuaybbWtYN9E0t3Pv3MTLlZbtYNOz29cWvx19L6sdy2c3eQyBiZRPyvmx8r!uHsyuzkhfs!spczwKmuB0cPLzcSQ3AodZ05FBHiM0mDM!cHV90mIIXdgOvMSH0FYOtS9afxcr3-5evM8snBUhUs7M0zZhItJFYl1hVSHNvR6HsLqVTqnPdTGAk0kATbkbQKsM2HcSJ5EgsfipwJ6hZLYdvMSLbnu9xwsd6z4HuGkkRTjwnCk5B6nT6YGoB5Drk9wDWbvCafnKAuC5Q2bcy7U7CbOOOW9m5sqv4CsMglHg__"
     ]
-  },
-  {
-    "id": 276889,
-    "publicado": "2026-04-06",
-    "modificado": "2026-06-29",
-    "direccion": "Calle Enrique Fuentes, 27",
-    "municipio": "Madrid",
-    "distrito": "Usera",
-    "planta": 4,
-    "precio": 1500,
-    "metros": 83.6,
-    "dormitorios": 4,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": []
   },
   {
     "id": 276891,
