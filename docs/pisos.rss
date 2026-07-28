@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Tue, 28 Jul 2026 10:44:23 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jul 2026 14:12:40 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -111,6 +111,14 @@
 			<pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Fuencarral-El Pardo</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/214248?2026-07-20</guid>
+		</item>
+		<item>
+			<title>1100€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/228888</link>
+			<description>C/ Cervantes, 30,&lt;br/&gt;1º con ascensor,&lt;br/&gt;35m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/228888</description>
+			<pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/228888?2026-07-28</guid>
 		</item>
 		<item>
 			<title>950€ Usera</title>
@@ -479,6 +487,14 @@
 			<pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275063?2026-06-17</guid>
+		</item>
+		<item>
+			<title>1120€ Tetuán</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275138</link>
+			<description>C/ Miosotis, 31,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;45m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275138</description>
+			<pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Tetuán</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275138?2026-07-28</guid>
 		</item>
 		<item>
 			<title>1250€ Tetuán</title>
@@ -969,14 +985,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277110?2026-06-04</guid>
 		</item>
 		<item>
-			<title>1300€ Hortaleza</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277111</link>
-			<description>C/ Corozal, 4,&lt;br/&gt;9º con ascensor,&lt;br/&gt;60m², 2 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277111</description>
-			<pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277111?2026-07-14</guid>
-		</item>
-		<item>
 			<title>2700€ Rozas de Madrid, Las</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277113</link>
 			<description>Av. Soller, 11,&lt;br/&gt;Casa sin ascensor,&lt;br/&gt;136m², 3 🛏,&lt;br/&gt;3 🛀, 3 📷.&lt;br/&gt;alq/277113</description>
@@ -1063,14 +1071,6 @@
 			<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Moncloa-Aravaca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277152?2026-07-09</guid>
-		</item>
-		<item>
-			<title>1100€ Puente de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277157</link>
-			<description>C/ Sierra Carbonera, 39,&lt;br/&gt;4º con ascensor,&lt;br/&gt;59m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277157</description>
-			<pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277157?2026-06-18</guid>
 		</item>
 		<item>
 			<title>950€ Fuenlabrada</title>
@@ -1575,6 +1575,14 @@
 			<pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277281?2026-07-28</guid>
+		</item>
+		<item>
+			<title>1900€ Centro</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277284</link>
+			<description>C/ Divino Pastor, 28,&lt;br/&gt;1º con ascensor,&lt;br/&gt;53m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277284</description>
+			<pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+			<category>Centro</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277284?2026-07-28</guid>
 		</item>
 	</channel>
 </rss>
