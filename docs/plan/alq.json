@@ -2229,6 +2229,7 @@
   {
     "id": 277044,
     "publicado": "2026-05-19",
+    "modificado": "2026-08-03",
     "direccion": "Calle Puerto de Cardoso, 2",
     "municipio": "Madrid",
     "distrito": "Puente de Vallecas",
@@ -2247,7 +2248,11 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKGoeBJh9lqoF9OKLEYrVoLW02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE-d3SRNLO5p2Hmfd57f876r36GYaChfrDZxGyOORYTm601K7Mzdt-cfT5rD3ANIFQAUjYZdg6qKlJxi8eaAvvru0d8fHowsQrGNeUJdtYUdLMYR9ZuKRk63L1KYIyYs1SixjBsUZNdizsoX119!e19Zee5BoQoFzK20UM7d-JkbP3CiiOqZKhSxIA3ZgmUYrUI5NHPUEM0UYVJ0u1koDQkXrGYicrptLOze59JU!cvR61!6!OTZn2sr044j6HNomBzwnk7iOtU3Vx9OjT34eLsXivfKZE23u3RqqncsnTzoXpiVOkJYYdKgKL58CRNqUJvRDsqOnFqDKEez0sGl9lgHa3oOR6eobcjweKo0NcZRudCzb2TcTUDD3sxLmsk217Wqe8YW73z6lZlys9yoG3R6euPWwu!FtaO5beduP5ExMon4X7cgVvzD2eXp8Qv3f2YvZ4ATHR-OHFqqJ4bgUOoacygixGeSOmfuD664TUAKuwHXmJH6CsDmpepN4-Va7cvXqaUT!aXyLOzOM2YSzSdWJdYVUhzb4ei7C6lU6pz3UhgKtCoJtkNpebAlgFEieRKLAAqcCeoWS2HbyEi25rtcd7HesxD4hpJEU58JwpOQ-u0emOqD-Q651cc1G7wmn5ygLguUNmzMOxOwkzjjlnZvbKrWAR4BJFc_",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoehJh9lqoF9OKLEYrVoLW02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE-d3SRNLO5p2Hmfd57f876r36GYaChfrDZxGyOORYTm601K7Mzdt-cfT5rD3ANIFQAUjYZdg6qKlJxi8eaAvvru0d8fHowsQrGNeUJdtYUdLMYR9ZuKRk63L1KYIyYs1SixjBsUZNdizsoX119!e19Zee5BoQoFzK20UM7d-JkbP3CiiOqZKhSxIA3ZgmUYrUI5NHPUEM0UYVJ0u1koDQkXrGYicrptLOze59JU!cvR61!6!OTZn2sr044j6HNomBzwnk7iOtU3Vx9OjT34eLsXivfKZE23u3RqqncsnTzoXpiVOkJYYdKgKL58CRNqUJvRDsqOnFqDKEez0sGl9lgHa3oOR6eobcjweKo0NcZRudCzb2TcTUDD3sxLmsk217Wqe8YW73z6lZlys9yoG3R6euPWwu!FtaO5beduP5ExMon4X7cgVvzD2eXp8Qv3f2YvZ4ATHR-OHFqqJ4bgUOoacygixGeSOmfuD664TUAKuwHXmJH6CsDmpepN4-Va7cvXqaUT!aXyLOzOM2YSzSdWJdYVUhzb4ei7C6lU6pz3UhgKtCoJtkNpebAlgFEieRKLAAqcCeoWS2HbyEi25rtcd7HesxD4hpJEU58JwpOQ-u0emOqD-Q651cc1G7wmn5ygLguUNmzMOxOwkzjjlnZvbKrWASAHJFg_",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUehJh9lqoF9OKLK5WrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqWf!B0EPBcGLoF5ExA-8CJ6cTTZtWtzTsPM-7zy!531Xv0Mp0VC5GLRwByOORYQWGi1K7Ozdt-cfT5rDvACQKgAoGQ17NqqqUnKKxZtD-uq7R39!FGCkDqUO5gl11RZ2sRhH1GspGjndgUhhjpiwVKPEMm6Qn12LeStfXH!97X115XkBigEUMbfSQqXnxsvceL4TRVTPBlDCgjRlG5ZhNIBKaOapIZopwqTod7NQHhIuWs1E5HQ7WNi!70lTtZkj71!-!OTZn2srM47DH3BomNzgPZ3EDapvrj6cGnvw8XYeSuGVyZrudOnUVH4sn5x2L8xJHSGsMGlSFF--hAk1qMNoF2VHTq1BlKM56eBSe6yLNT2Ho1PUNmV4PFWaGuOoXOjZNzLuJqBhf-YlzWRb69rBvrH6nU-!MlNulut1G52e3ri1-Lu-drRn27k7SGSMTCL-182PFf9wdnlm!ML9n9nLGeBE14Mj00uNxBAcSl1jDkWE-EzS4Mz9wVW3CUhhN-AaM1JfAdi6VPk0Xq7VvnydWjoxWKqChb29jJlEC4lViXWFFMd2OPr-QiqVOud5CkOBBpJgO5RWAbb5MEokT2LhQ5EzQd1iKWybGcn23i43XKz3LPieoSTR1GOC8CSkXicHUwMwzyG3B7hmndf0JieoywKlTRvz7gTsJs64pf0bm6p!Ig0kWQ__"
+    ]
   },
   {
     "id": 277056,
@@ -4308,6 +4313,28 @@
     "imgs": []
   },
   {
+    "id": 277291,
+    "publicado": "2026-07-30",
+    "direccion": "Calle Luis Garc\u00eda Berlanga, 1",
+    "municipio": "Rivas-Vaciamadrid",
+    "planta": 5,
+    "precio": 2200,
+    "metros": 105,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "A",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": false,
+    "imgs": []
+  },
+  {
     "id": 277293,
     "publicado": "2026-07-30",
     "direccion": "Calle Los Y\u00e9benes, 110",
@@ -4447,5 +4474,28 @@
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600pqIolAUPIkwey3Ui2lFFqMVK0HraTI7bibMzkxmZpOVYlFBC3pQ!LgJCnpR6tn!QdBDQfAiqBcR8QMvgqfObjZNLO5p2Hmfd57f876r36EUa6hcrLVwByOORYjmGy1K7Mzdt-cfT5rDvACQKAAoGQ27BlVVKTnF4s1BffXdo78!CjCyCKUO5jF11RZ2sAiH1GspGjrd!lBhjpiwVKPYMm6Qn16LOStfXH!97X115XkBijUoYm6lhUrmxkvdeL4ThVTP1KCEBWnKNizDaA0qgZmjhmimCJOi181CeUi4YDUTodNtY0HvPpMm6l-OvH!585Nnf66tTDsOv8-hYXLAezqOGlTfXH04Nfbg4-08lMIrkzbd7tKpq!xYPrnHvTArdYiwwqRJUXT5EibUoA6jXZQeObUGUY5mpYNL7LEu1vQcDk9R25TB8URpaoyjcqGn38i4m4CGfamXJJVtrmvX9o4t3vn0KzXlZrlRN-j09Mathd-La0cz287dASIjZGLxv25-pPiHs8vT4xfu!0xfTgEnuh4cObTUiA3BgdR15lBEgM!EDc7cH1x1m4AUdgOuMyP1FYDNS5VP4-Va!cvXqaUT!aUqWNidZcwkmo-tiq0rpDiyw9H3FlKpxDnPUxgKtCYJtkNpFWCLD6NE8jgSPhQ5E9QtlsK2mZJszXa54WK9Z8H3DCWxph4ThMcB9To5mOqDeQ653cc1G7wmm5ygLguUNG3EuxOwkzjjlvZubKLWAQe!JEw_",
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURikJR8CTC7LVQL6YVWYxWrASNp8lk3EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE!ObjZtWtzTsPM-7zy!531Xv0Mx1lC-WG3jLkYcixAtNNqU2Nm7b88!njSHuQeQKAAoGg17NqoqUnKKxZuD-uq7R39!eDBSh2IX85i6agu7WIRD6rcVDZ1uf6gwR0xYqlFsGTcoSK!FvJUvrr!-9r6y8tyDQhUKmFtpoZy58VM3fuBEIdWzVShiQVqyA8swWoVy08xTQzRThEnR72ahNCRctJqJ0Ol2sGb!PpMmajNH3r!0-cmzP9dWZhxHMODQMLnBezqOGlTfXH04Pfbg4-08FO-VSZvudOnUVH4snZxyL8xJHSKsMGlRFF2-hAk1qMtoD6VHTq1BlKM56eASe6yHNT2Hw1PUtmTzeKI0NcZRudDTb2TcTUDDvtRLksq21nWqU2P1O59-pabcLNfrNjo9vXFr8Xd97Whm27k7QGSETCz-1y2IFP9wdnlm!ML9n-nLKeBEz4cjh5YasSG4KXWNORTRxGfiBmfuD664TUAKuwHXmJH6CsDWpcqn8XKt9uXr9NKJwVJ5FvZmGTOJFmKrYusKKY7scPT9hVQqcc7zFIYCrUqC7VBaHmwLYJRIHkcigAJngrrFUti2UpLt2S43XKz3LAS-oSTW1GeC8LhJ!W4OpgZgvkPuDHDNOq!JJieoywIlLRvx3gTsJs64pf0bm6h!CcUkTQ__"
     ]
+  },
+  {
+    "id": 277303,
+    "publicado": "2026-08-03",
+    "direccion": "Calle Boc\u00e1ngel, 5",
+    "municipio": "Madrid",
+    "distrito": "Salamanca",
+    "planta": 1,
+    "precio": 1300,
+    "metros": 38,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]
