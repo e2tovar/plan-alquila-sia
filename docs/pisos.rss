@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 06 Aug 2026 10:46:07 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Aug 2026 00:08:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -353,14 +353,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271880?2026-08-04</guid>
 		</item>
 		<item>
-			<title>850€ Centro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/271984</link>
-			<description>C/ Provisiones, 4,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;34m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/271984</description>
-			<pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Centro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/271984?2026-07-16</guid>
-		</item>
-		<item>
 			<title>1400€ Villa de Vallecas</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/272207</link>
 			<description>C/ Fresno de Cantespino, 40,&lt;br/&gt;4º con ascensor,&lt;br/&gt;66m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/272207</description>
@@ -583,14 +575,6 @@
 			<pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276308?2026-06-14</guid>
-		</item>
-		<item>
-			<title>1400€ Centro</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276347</link>
-			<description>C/ Mesón de Paredes, 56,&lt;br/&gt;4º con ascensor,&lt;br/&gt;61m², 2 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/276347</description>
-			<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Centro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276347?2026-07-23</guid>
 		</item>
 		<item>
 			<title>1200€ Arganzuela</title>
@@ -1047,14 +1031,6 @@
 			<pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277145?2026-06-16</guid>
-		</item>
-		<item>
-			<title>1140€ Colmenar Viejo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277148</link>
-			<description>C/ Alto de la Cabaña, 13,&lt;br/&gt;1º con ascensor,&lt;br/&gt;90m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277148</description>
-			<pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-			<category>Colmenar Viejo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277148?2026-07-08</guid>
 		</item>
 		<item>
 			<title>1100€ Moncloa-Aravaca</title>
@@ -1607,6 +1583,14 @@
 			<pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277305?2026-08-04</guid>
+		</item>
+		<item>
+			<title>1000€ Chamartín</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277309</link>
+			<description>C/ Clara del Rey, 39,&lt;br/&gt;1º con ascensor,&lt;br/&gt;42m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/277309</description>
+			<pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+			<category>Chamartín</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277309?2026-08-06</guid>
 		</item>
 	</channel>
 </rss>
