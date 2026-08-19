@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 19 Aug 2026 12:51:58 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Aug 2026 14:44:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -577,12 +577,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275525?2026-06-14</guid>
 		</item>
 		<item>
-			<title>1210€ Hortaleza</title>
+			<title>1200€ Hortaleza</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/275609</link>
-			<description>C/ Estanislao Perez Pita, 40,&lt;br/&gt;1º con ascensor,&lt;br/&gt;76m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/275609</description>
-			<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+			<description>C/ Estanislao Perez Pita, 40,&lt;br/&gt;1º sin ascensor,&lt;br/&gt;49m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/275609</description>
+			<pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Hortaleza</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275609?2026-08-10</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/275609?2026-08-19</guid>
 		</item>
 		<item>
 			<title>1250€ Puente de Vallecas</title>
@@ -777,12 +777,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276934?2026-04-14</guid>
 		</item>
 		<item>
-			<title>1400€ Pinto</title>
+			<title>1200€ Pinto</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/276936</link>
-			<description>Pº Artes, 21,&lt;br/&gt;2º con ascensor,&lt;br/&gt;82m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/276936</description>
-			<pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+			<description>Pº Artes, 21,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;110m², 3 🛏,&lt;br/&gt;3 🛀, 0 📷.&lt;br/&gt;alq/276936</description>
+			<pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
 			<category>Pinto</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276936?2026-04-14</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/276936?2026-08-19</guid>
 		</item>
 		<item>
 			<title>1600€ Getafe</title>
