@@ -940,6 +940,7 @@
   {
     "id": 272153,
     "publicado": "2026-07-08",
+    "modificado": "2026-08-21",
     "direccion": "Calle Lebreles, 9",
     "municipio": "Madrid",
     "distrito": "Carabanchel",
@@ -953,7 +954,7 @@
     "amueblada": false,
     "ascensor": false,
     "calefacion": false,
-    "garaje": true,
+    "garaje": false,
     "adaptada": false,
     "piscina": false,
     "porteria": false,
@@ -5082,6 +5083,7 @@
   {
     "id": 277359,
     "publicado": "2026-08-19",
+    "modificado": "2026-08-21",
     "direccion": "Calle Limonero, 39",
     "municipio": "Madrid",
     "distrito": "Tetu\u00e1n",
@@ -5100,6 +5102,10 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1IsX!wdBDwXBi6BeRMQPvAienE02TSzuadh5n3ee3!O-a9-glGionA9auIMRxyJCi40WJXbu9puzD6fNIV4ASBUAlIyGXcOqqpScYvH6gL789sGf7wUYq0Opg3lCXbWFHSzGEfVaikZOty9SmCMmLNUosYwb5GfXYsHKZ1dffX1XXX1agGIARcyttFDpufEyN57vRBHVcwGUsCBN2YYVGA-gEpoFaohmijAp-t0slEeES1YzETndNhb273vSVP3Lkfcvf3r05PeV1VnH4Q84NEwPeU8mcYPq62v3ZybufbiZh1J4abKm2106NZUfy8EL98K81BHCCpMmRfHFC5hQgzqMdlF25NQaRDmalw4utUe7WNMzODpBbVOGx1KlqTGOyoWefWOTbgIa9mZe0ky2ua4d7Jmo3!r4MzPlZrlRN-z0-NqNpV!19SM9287dfiJjZBLxv25-rPj70yuzk-fu!shezgCnuh4cPrjcSAzBodQ15lBEiE8lDc7cH1x1m4AUdgOuMSP1JYDNS5VP4!l67fOXmeXjg6UqWNjdy5hJtJhYlVhXSHFsR6PvL6RSqXOepzASaCAJtiNpFWCLD-NE8iQWPhQ5E9QtlsK2mZFs7e1yw8V6x4LvGUoSTT0mCE9C6nVyMDUA8xxye4BrNnhNb3KCuixQ2rQx707BTuKMW9q!san6C0V9JOk_",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1JMH!wdBDwXBi6BeRMQPvAienE02TSzuadh5n3ee3!O-a9-glGionA9auIMRxyJCi40WJXbu9puzD6fNIV4ASBUAlIyGXcOqqpScYvH6gL789sGf7wUYq0Opg3lCXbWFHSzGEfVaikZOty9SmCMmLNUosYwb5GfXYsHKZ1dffX1XXX1agGIARcyttFDpufEyN57vRBHVcwGUsCBN2YYVGA-gEpoFaohmijAp-t0slEeES1YzETndNhb273vSVP3Lkfcvf3r05PeV1VnH4Q84NEwPeU8mcYPq62v3ZybufbiZh1J4abKm2106NZUfy8EL98K81BHCCpMmRfHFC5hQgzqMdlF25NQaRDmalw4utUe7WNMzODpBbVOGx1KlqTGOyoWefWOTbgIa9mZe0ky2ua4d7Jmo3!r4MzPlZrlRN-z0-NqNpV!19SM9287dfiJjZBLxv25-rPj70yuzk-fu!shezgCnuh4cPrjcSAzBodQ15lBEiE8lDc7cH1x1m4AUdgOuMSP1JYDNS5VP4!l67fOXmeXjg6UqWNjdy5hJtJhYlVhXSHFsR6PvL6RSqXOepzASaCAJtiNpFWCLD-NE8iQWPhQ5E9QtlsK2mZFs7e1yw8V6x4LvGUoSTT0mCE9C6nVyMDUA8xxye4BrNnhNb3KCuixQ2rQx707BTuKMW9q!san6C0eDJOo_",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1Jvg!yDooSB4EdSLiPiBF8GTs8mmicU9DTvv887ze9537RuUEg2V80ELdzDiWERosdGixM7dfnP24bQ5xAsAqQKAktGwa1hVlZJTLF4f0JffPvjzvQBjdSh1ME-oq7awg8U4ol5L0cjp9kUKc8SEpRollnGD!OxaLFj57Oqrr--qq08LUAygiLmVFio9N17mxvOdKKJ6LoASFqQp27AC4wFUQrNADdFMESZFv5uF8ohwyWomIqfbxsL-fU-aqn858v7lT4-e!L6yOus4!AGHhukh78kkblB9fe3-zMS9DzfzUAovTdZ0u0unpvJjOXjhXpiXOkJYYdKkKL54ARNqUIfRLsqOnFqDKEfz0sGl9mgXa3oGRyeobcrwWKo0NcZRudCzb2zSTUDD3sxLmsk217WDPRP1Wx9!ZqbcLDfqhp0eX7ux9Ku-fqRn27nbT2SMTCL-182PFX9!emV28tzdH9nLGeBU14PDB5cbiSE4lLrGHIoI8amkwZn7g6tuE5DCbsA1ZqS-BLB5qfJpPF-vff4ys3x8sFQFC7t7GTOJFhOrEusKKY7taPT9hVQqdc7zFEYCDSTBdiStAmzxYZxInsTChyJngrrFUtg2M5KtvV1uuFjvWPA9Q0miqccE4UlIvU4OpgZgnkNuD3DNBq!pTU5QlwVKmzbm3SnYSZxxS!s3NlV!AUmJJOs_"
+    ]
   }
 ]
