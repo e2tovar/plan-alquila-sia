@@ -2955,30 +2955,6 @@
     ]
   },
   {
-    "id": 277135,
-    "publicado": "2026-08-10",
-    "modificado": "2026-08-24",
-    "direccion": "Calle Gavia Seca, 29",
-    "municipio": "Madrid",
-    "distrito": "Villa de Vallecas",
-    "planta": 3,
-    "precio": 874.95,
-    "metros": 70,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": true,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": true,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": []
-  },
-  {
     "id": 277140,
     "publicado": "2026-06-15",
     "modificado": "2026-08-05",
@@ -4766,6 +4742,7 @@
   {
     "id": 277334,
     "publicado": "2026-08-14",
+    "modificado": "2026-08-27",
     "direccion": "Calle Calleja Oscura, 2",
     "municipio": "Collado Villalba",
     "planta": 1,
@@ -4783,7 +4760,11 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLKRWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqWf!B0EPBcGLoF5ExA-8CJ6cTTZNLO5p2Hmfd57f877r36CYaChfqLZwByOORYSWGi1K7NydN-ceTZsj3ANIFQAUjYY9w6qKlJxi8fqQvvL24Z!vHozVodjBPKGu2sIuFuOI-i1FI6c7ECnMEROWapRYxg0KsmuxYOXza6--vqusPfOgUIUC5lZaKPfc-JkbP3CiiOq5KhSxIE3ZhlUYr0I5NAvUEM0UYVL0u1kojQiXrWYicrodLOzf96Sp-pcj71!69Pjp76trs44jGHBomB7ynkriBtU31h!MTNz!cCsPxXtpsqY7XTo1lR9LiwX3wrzUEcIKkyZF8aWLmFCDOox2UXbk1BpEOZqXDi61x7tY07M4WqS2KcMTqdLUGEflQs--sUk3AQ37My9pJtta167um6jf!vgzM-VmuVk37PTk-s3lX!WNYz3bzt1BImNkEvG!bkGs-Pszq7OT5-!9yF7OAKe6Phw9vNJIDMGh1DXmUESITycNztwfXHGbgBR2A64xI!VlgK1LlU!jxUbt85eZlZODpfIs7O1lzCRaSqxKrCukOLaj0fcXUqnUOc9TGAm0Kgm2I2l5sC2AcSJ5EosACpwJ6hZLYdvMSLb3drnhYr1rIfANJYmmPhOEJyH1OzmYGoD5Drk9wDWbvKY3OUFdFiht2ph3p2A3ccYt7d!YVP0F51IkPA__",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFrZWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqWf!B0EPBcGLoF5ExA-8CJ6c3SRNLO5p2Hmfd57f877r36CUaKhcCFq4gxHHIkJLjRYldu7Om3OPps0RXgBIFQCUjIY9w6qqlJxi8fqQvvL24Z!vBRirQ6mDeUJdtYVdLMYR9VqKRk53IFKYIyYs1SixjBvkZ9diwcrn1159fVdde1aAYgBFzK20UMndeJkbz3eiiOq5AEpYkKZswyqMB1AJzQI1RDNFmBS9bhbKI8Jlq5mInG4HC3v3uTRV!3L0-5c!PX76--rarOPwBxwapoe8p5K4QfWN9QczE!c!3OqHUnhpsqY7XTo11T-WF7Ok5qWOEFaYNCmKL13EhBrUYbSLsiOn1iDK0bx0cKk93sWansXRIrVNGZ5IlabGOCoXevaNTboJaNifeUkz2da6drBvon7748!MlJvlZt2w05PrN5d!1TeO5badu4NExsgk4n!d!Fjx92dWZyfP3!uRvZwBTnU9OHp4pZEYgkOpa8yhiBCfThqcuT-46jYBKewGXGNG6ssAW5eqP40XG7XPX2ZWTg6WqmBhb54xk2gpsSqxrpDi2I5G31tIpVLnvJ!CSKCBJNiOpFWAbT6ME8mTWPhQ5ExQt1gK22ZGsj3f5YaL9a4F3zOUJJp6TBCehNTr9MHUAMxzyO0BrtnkNfnkBHVZoLRpY96dgt3EGbe0d2NT9RfpWCQ9",
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLGytWAkaT5PJuJkwOzOZmU1WikUFLehB8eMmKOhFqWf!B0EPBcGLoF5ExA-8CJ6cTTZNLO5p2Hmfd57f877r36CYaChfCFu4gxHHIkJL9RYldu7Om3OPps0R7gGkCgCKRsOeYVVFSk6xeH1IX3n78M93D8ZqUOxgnlBXbWEXi3FE!ZaikdMdiBTmiAlLNUos4wYF2bVYsPL5tVdf31XWnnlQCKGAuZUWyj03fubGD5woonouhCIWpCnbsArjIZQbZoEaopkiTIp-NwulEeGy1UxETreDNfr3PWmq!uXI-5c-PX76--rarOMIBhwapoe8p5K4TvWN9QczE!c!3MpD8V6arOlOl05V5cfS4rh7YV7qCGGFSZOi-NJFTKhBHUa7KDtyag2iHM1LB5fa412s6VkcLVLblI0TqdLUGEflQs--sUk3AQ37My9pJtta1w73TdRuf!yZmXKz3Kwbdnpy!ebyr9rGsZ5t5-4gkTEyifhftyBW!P2Z1dnJ8!d-ZC9ngFNdH44eXqknhuCG1FXmUEQDn07qnLk!uOI2ASnsBlxlRurLAFuXKp!Gi43q5y8zKycHS-VZ2NvLmEm0lFiVWFdIcWxHo-8vpFKpc56nMBJoKAm2I2l5sC2AcSJ5EosACpwJ6hZLYdvMSLb3drnuYr1rIfANJYmmPhOEJw3qd3IwNQDzHXJ7gGs2eU1vcoK6LFDatDHvTsFu4oxb2r-xqfoL614kPg__"
+    ]
   },
   {
     "id": 277336,
@@ -5204,6 +5185,28 @@
     "adaptada": false,
     "piscina": false,
     "porteria": false,
+    "trastero": true,
+    "imgs": []
+  },
+  {
+    "id": 277366,
+    "publicado": "2026-08-27",
+    "direccion": "Bulev Picos de Europa, 31",
+    "municipio": "San Sebasti\u00e1n de los Reyes",
+    "planta": 0,
+    "precio": 1050,
+    "metros": 70,
+    "dormitorios": 2,
+    "aseos": 2,
+    "cee": "C",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
     "trastero": true,
     "imgs": []
   },
