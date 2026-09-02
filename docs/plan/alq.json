@@ -3582,28 +3582,6 @@
     "imgs": []
   },
   {
-    "id": 277260,
-    "publicado": "2026-07-21",
-    "direccion": "Calle Valdevarn\u00e9s, 8",
-    "municipio": "Madrid",
-    "distrito": "Moncloa-Aravaca",
-    "planta": 0,
-    "precio": 1400,
-    "metros": 76,
-    "dormitorios": 3,
-    "aseos": 2,
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": true,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": []
-  },
-  {
     "id": 277263,
     "publicado": "2026-07-21",
     "direccion": "Calle Soledad Cazorla, 61",
