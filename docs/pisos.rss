@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 10 Sep 2026 14:14:13 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 10 Sep 2026 19:07:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -303,6 +303,14 @@
 			<pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Latina</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/268802?2026-09-08</guid>
+		</item>
+		<item>
+			<title>1400€ Arganzuela</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270029</link>
+			<description>C/ Torres Miranda, 18,&lt;br/&gt;1º con ascensor,&lt;br/&gt;68m², 2 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/270029</description>
+			<pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+			<category>Arganzuela</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270029?2026-09-10</guid>
 		</item>
 		<item>
 			<title>1200€ Puente de Vallecas</title>
