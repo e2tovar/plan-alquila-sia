@@ -3672,29 +3672,6 @@
     "imgs": []
   },
   {
-    "id": 277346,
-    "publicado": "2026-08-18",
-    "direccion": "Calle Gomeznarro, 72",
-    "municipio": "Madrid",
-    "distrito": "Hortaleza",
-    "planta": 1,
-    "precio": 1200,
-    "metros": 49,
-    "dormitorios": 2,
-    "aseos": 1,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": []
-  },
-  {
     "id": 277347,
     "publicado": "2026-08-18",
     "direccion": "Calle C\u00e1ceres, 16",
@@ -4717,6 +4694,28 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
+    "imgs": []
+  },
+  {
+    "id": 277450,
+    "publicado": "2026-09-18",
+    "direccion": "Calle Francisco Salzillo, 7",
+    "municipio": "Torrej\u00f3n de Ardoz",
+    "planta": 3,
+    "precio": 1250,
+    "metros": 61,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": true,
+    "trastero": true,
     "imgs": []
   }
 ]
