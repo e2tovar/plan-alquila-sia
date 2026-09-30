@@ -189,31 +189,6 @@
     ]
   },
   {
-    "id": 240139,
-    "publicado": "2026-09-07",
-    "modificado": "2026-09-24",
-    "direccion": "Calle Ernest Hemingway, 8",
-    "municipio": "Madrid",
-    "distrito": "Carabanchel",
-    "planta": "Atico",
-    "precio": 1300,
-    "metros": 53.41,
-    "dormitorios": 2,
-    "aseos": 2,
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": true,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uTf1opTURRKEoeBJh9lqoF9OKLMRWWgkaT5PZcTNhdmYyM5usFIsKWtCD4sdNUNCLUs!-D4IeCoIXQb2IiB94ETw5m2yatLinYed93nl-z!uuf4dCoqF0sdLEbYw4FhFarDcpsbN3355!PGWOcQ8gVQBQMBr2DarKUnKKxZsj-uq7R39!eDBSg0Ib84S6agt7WIwj6jcVjZzuUKQwR0xYqlFiGTcoyK7FvJUvrr!-9r689tyD0QqMYm6lhVLXjZ-58QMniqierUABC9KQLViFsQqUQjNPDdFMESZFr5uF4pBw2WomIqfbxcLefVeaqq0cef!i5yfP!lxbm3EcQZ9Dw9SAdyGJ61TfXH84Pf7g4-08FO-VyZrudulUVX4sLiy5F-akjhBWmDQoii9fwoQa1Ga0g7Ijp9YgytGcdHCpPdnBmp7D0RlqGzI8lSpNjXFULvTsG5lwE9BwMPOSZrLtda3KgfHanU-!MlNulpt1g05Pb9xa!l3bONG17dwdJjJGJhH!6xbEin9YWp2ZuHD!Z!ZyBjjZ8eH40ZV6YggOpa4yhyJCfDapc-b-4LLbBKSwG3CVGamvAGxfqnwaLzeqX75Or5zuL5VnYX83YybRYmJVYl0hxbEdjr63kEqlznmewlCgFUmwHUrLgx0BjBHJk1gEMMqZoG6xFLaNjGRnd5frLtZ7FgLfUJJo6jNBeBJSv52DqT6Y75BbfVyzyWu6kxPUZYHSho15ZxL2Emfc0t6NTdU!hzwkiw__"
-    ]
-  },
-  {
     "id": 241544,
     "publicado": "2026-09-11",
     "modificado": "2026-09-24",
@@ -851,6 +826,7 @@
   {
     "id": 270655,
     "publicado": "2026-09-29",
+    "modificado": "2026-09-30",
     "direccion": "Calle General Zabala, 20",
     "municipio": "Madrid",
     "distrito": "Chamart\u00edn",
@@ -869,7 +845,9 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolgUPIkwey3Ui2lFFlYjVoLW02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE!ObpImFvc07LzPO8!ved-1b1BKNFQuBC3cwYhjEaFao0WJnbvz5tyjaXOYFwBSBQAlo2HXsKoqJadYvD6or7x9-Od7AcaWoNTBPKGu2sIOFuOIei1FI6fbFynMEROWapRYxg3ys2uxYOXza6--vquuPitAMYAi5lZaqORuvMyN5ztRRPVcACUsSFO2YQXGA6iEZoEaopkiTIpeNwvlEeGi1UxETreNhb37XJqqfzn6!cufHj!9fXV11nH4Aw4N00PeU0ncoPrG2oOZifsfbvVDKbw0WdPtLp266h!Ltf3uhXmpI4QVJk2K4ksXMaEGdRjtouzIqTWIcjQvHVxqj3WxpmdxdJLapgyPp0pTYxyVCz37xibdBDTszbykmWxzXTvYM7F0--PPzJSb5UbdsNOT6zcXfy2tH81tO3cHiIyRScT!uvmx4u!PrMxOnr!3I3s5A5zqenDk0HIjMQSHUteZQxEhPp00OHN!cNVtAlLYDbjOjNSXATYvVX8aL9brn7!MLJ8YLFXBwu48YyZRLbEqsa6Q4tiORt9bSKVS57yfwkiggSTYjqRVgC0-jBPJk1j4UORMULdYCttmRrI13-WGi!WuBd8zlCSaekwQnoTU6!TB1ADMc8jtAa7Z4DX55AR1WaC0aWPenYKdxBm3tHdjU!UXG!8kVg__"
+    ]
   },
   {
     "id": 271106,
@@ -4507,6 +4485,7 @@
   {
     "id": 277485,
     "publicado": "2026-09-29",
+    "modificado": "2026-09-30",
     "direccion": "Paseo Santa Mar\u00eda de la Cabeza, 139",
     "municipio": "Madrid",
     "distrito": "Usera",
@@ -4525,11 +4504,14 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolIUPIkwey3Ui2lFFlYjVoLW02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE!ObpImFvc07LzPO8!ved-1b1BKNFQuBC3cwYhjEaFao0WJnbvz5tyjaXOYFwBSBQAlo2HXsKoqJadYvD6or7x9-Od7AcaWoNTBPKGu2sIOFuOIei1FI6fbFynMEROWapRYxg3ys2uxYOXza6--vquuPitAMYAi5lZaqORuvMyN5ztRRPVcACUsSFO2YQXGA6iEZoEaopkiTIpeNwvlEeGi1UxETreNhb37XJqqfzn6!cufHj!9fXV11nH4Aw4N00PeU0ncoPrG2oOZifsfbvVDKbw0WdPtLp266h!Ltf3uhXmpI4QVJk2K4ksXMaEGdRjtouzIqTWIcjQvHVxqj3WxpmdxdJLapgyPp0pTYxyVCz37xibdBDTszbykmWxzXTvYM7F0--PPzJSb5UbdsNOT6zcXfy2tH81tO3cHiIyRScT!uvmx4u!PrMxOnr!3I3s5A5zqenDk0HIjMQSHUteZQxEhPp00OHN!cNVtAlLYDbjOjNSXATYvVX8aL9brn7!MLJ8YLFXBwu48YyZRLbEqsa6Q4tiORt9bSKVS57yfwkiggSTYjqRVgC0-jBPJk1j4UORMULdYCttmRrI13-WGi!WuBd8zlCSaekwQnoTU6!TB1ADMc8jtAa7Z4DX55AR1WaC0aWPenYKdxBm3tHdjU!UXGfkkVQ__"
+    ]
   },
   {
     "id": 277487,
     "publicado": "2026-09-29",
+    "modificado": "2026-09-30",
     "direccion": "Avda Gran V\u00eda del Sureste, 18",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -4548,7 +4530,9 @@
     "piscina": false,
     "porteria": true,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIUqEoeBJh9lqoF9OKLKxGrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqWf!B0EPBcGLoF5ExA-8CJ6c3SRNLO5p2Hmfd57f877r36CYaChfCFq4gxHHIkLVRosSu3DnzblHM-YwLwCkCgCKRsOeYVVFSk6xeH1QX3n78M!3AozVodjBPKGu2sIuFuOIei1FI6fbHynMEROWapRYxg3ys2uxZOXza6--vqusPSvAeADjmFtpoZy78TI3nu9EEdULARSxIE3ZhlWYCKAcmiVqiGaKMCl63SyURoTLVjMROd0OFvbuc2mq!uXo9y99evz099W1ecfhDzg0zAx5TyVxg-ob6w!mJu9!uNUPpfDSZE13unRqqn8sVWfdC4tSRwgrTJoUxZcuYkIN6jDaRdmRU2sQ5WhROrjUHutiTc!i6CS1TRkeT5WmxjgqF3r2jU25CWiYzbykmWxrXTvYN1m!!fFnZsrNcrNu2OnJ9ZvLv-obR3Pbzt0BImNkEvG!bn6s-Pszq!NT5-!9yF7OAKe7Hhw5tNJIDMGh1DXmUESITycNztwfXHGbgBR2A64xI!VlgK1L1Z!Gi43a5y9zKycGS1WwsDfPmElUTaxKrCukOLaj0fcWUqnUOe-nMBJoIAm2I2kVYJsPE0TyJBY-jHMmqFsshW0zI9me73LDxXrXgu8ZShJNPSYIT0LqdfpgagDmOeT2ANds8pp8coK6LFDatDHvTsNu4oxb2ruxqfoLFe0kUw__"
+    ]
   },
   {
     "id": 277489,
@@ -4666,6 +4650,7 @@
   {
     "id": 277496,
     "publicado": "2026-09-29",
+    "modificado": "2026-09-30",
     "direccion": "Calle Pico Chilegua, 9",
     "municipio": "Madrid",
     "distrito": "Villa de Vallecas",
@@ -4684,6 +4669,8 @@
     "piscina": false,
     "porteria": false,
     "trastero": false,
-    "imgs": []
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIYqEoeBJh9lqoF9OKLKxGrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFqWf!B0EPBcGLoF5ExA-8CJ6c3SRNLO5p2Hmfd57f877r36CYaChfCFq4gxHHIkLVRosSu3DnzblHM-YwLwCkCgCKRsOeYVVFSk6xeH1QX3n78M!3AozVodjBPKGu2sIuFuOIei1FI6ebjRTmiAlLNUos4wb52bVYsvL5tVdf31XWnhVgPIBxzK20UM7deJkbz3eiiOqFAIpYkKZswypMBFAOzRI1RDNFmBS9bhZKI8Jlq5mInG4HC3v3uTRV!3L0-5c-PX76--ravOPwBxwaZoa8p5K4QfWN9Qdzk!c!3OqHUnhpsqY7XTo11T-WqrPuhUWpI4QVJk2K4ksXMaEGdRjtouzIqTWIcrQoHVxqj3WxpmdxdJLapgyPp0pTYxyVCz37xqbcBDTsz7ykmWxrXTvYN1m!!fFnZsrNcrNu2OnJ9ZvLv-obR3Pbzt0BImNkEvG!bn6s-Pszq!NT5-!9yF7OAKe7Hhw5tNJIDMGh1DXmUESITycNztwfXHGbgBR2A64xI!VlgK1L1Z!Gi43a5y9zKycGS1WwsDfPmElUTaxKrCukOLaj0fcWUqnUOe-nMBJoIAm2I2kVYJsPE0TyJBY-jHMmqFsshW0zI9me73LDxXrXgu8ZShJNPSYIT0LqdfpgagDmOeT2ANds8pp8coK6LFDatDHvTsNu4oxb2ruxqfoLF!MkVA__"
+    ]
   }
 ]
