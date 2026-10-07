@@ -643,34 +643,6 @@
     ]
   },
   {
-    "id": 268802,
-    "publicado": "2026-08-25",
-    "modificado": "2026-09-08",
-    "direccion": "Calle Mag\u00edn Calvo, 2",
-    "municipio": "Madrid",
-    "distrito": "Latina",
-    "planta": 4,
-    "precio": 1400,
-    "metros": 73,
-    "dormitorios": 2,
-    "aseos": 2,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": false,
-    "calefacion": false,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBPHgbLJpYnFPw877vPP8nvdd-wqlREPlfNDCHYw4FhFabLQosXO3X599OG0O8QJAqgCgZDTsGlZVpeQUi1cH9OU3D35!K8BYHUodzBPqqi3sYDGOqNdSNHK6fZHCHDFhqUaJZdwgP7sWC1Y-u!ryy9vq6tMCFAMoYm6lhUrPjZe58XwniqieC6CEBWnKNqzAeACV0CxQQzRThEnR72ahPCJcspqJyOm2sbB!35Om6l-OvH!546Mnv66szjoOf8ChYXrIezKJG1RfX7s!M3Hv!c08lMILkzXd7tKpqfxYDv64F-aljhBWmDQpii9ewIQa1GG0i7Ijp9YgytG8dHCpPdrFmp7B0QlqmzI8lipNjXFULvTsG5t0E9CwN!OSZrLNde1gz0T91ocfmSk3y426YafH124s!ayvH-nZdu72Exkjk4j!dfNjxd-dXpmdPHf3e!ZyBjjV9eDwweVGYggOpa4xhyJCfCppcOb-4KrbBKSwG3CNGakvAWxeqnwaz9drnz7PLB8fLFXBwu5exkyixcSqxLpCimM7Gn1!IZVKnfM8hZFAA0mwHUmrAFt8GCeSJ7HwociZoG6xFLbNjGRrb5cbLtY7FnzPUJJo6jFBeBJSr5ODqQGY55DbA1yzwWt6kxPUZYHSpo15dwp2Emfc0v6NTdVf2zklMw__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBEFwNtk0sbinYed93nl-z!uufYVSoqFyPmjhDkYciwgtNlqU2Lnbr88-nDaHeAEgVQBQMhp2DauqUnKKxasD-vKbB7-!FWCsDqUO5gl11RZ2sBhH1GspGjndvkhhjpiwVKPEMm6Qn12LBSufXX355W119WkBigEUMbfSQqXnxsvceL4TRVTPBVDCgjRlG1ZgPIBKaBaoIZopwqTod7NQHhEuWc1E5HTbWNi!70lT9S9H3r!88dGTX1dWZx2HP-DQMD3kPZnEDaqvr92fmbj3!mYeSuGFyZpud-nUVH4sB3!cC!NSRwgrTJoUxRcvYEIN6jDaRdmRU2sQ5WheOrjUHu1iTc!g6AS1TRkeS5WmxjgqF3r2jU26CWjYm3lJM9nmunawZ6J-68OPzJSb5UbdsNPjazeWftbXj!RsO3f7iYyRScT!uvmx4u9Or8xOnrv7PXs5A5zqenD44HIjMQSHUteYQxEhPpU0OHN!cNVtAlLYDbjGjNSXADYvVT6N5-u1T59nlo8PlqpgYXcvYybRYmJVYl0hxbEdjb6!kEqlznmewkiggSTYjqRVgC0-jBPJk1j4UORMULdYCttmRrK1t8sNF-sdC75nKEk09ZggPAmp18nB1ADMc8jtAa7Z4DW9yQnqskBp08a8OwU7iTNuaf!Gpuov3T8lNA__",
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBA!ibLJpYnFPw877vPP8nvdd-wqlREPlfNDCHYw4FhFabLQosXO3X599OG0O8QJAqgCgZDTsGlZVpeQUi1cH9OU3D35!K8BYHUodzBPqqi3sYDGOqNdSNHK6fZHCHDFhqUaJZdwgP7sWC1Y-u!ryy9vq6tMCFAMoYm6lhUrPjZe58XwniqieC6CEBWnKNqzAeACV0CxQQzRThEnR72ahPCJcspqJyOm2sbB!35Om6l-OvH!546Mnv66szjoOf8ChYXrIezKJG1RfX7s!M3Hv!c08lMILkzXd7tKpqfxYDv64F-aljhBWmDQpii9ewIQa1GG0i7Ijp9YgytG8dHCpPdrFmp7B0QlqmzI8lipNjXFULvTsG5t0E9CwN!OSZrLNde1gz0T91ocfmSk3y426YafH124s!ayvH-nZdu72Exkjk4j!dfNjxd-dXpmdPHf3e!ZyBjjV9eDwweVGYggOpa4xhyJCfCppcOb-4KrbBKSwG3CNGakvAWxeqnwaz9drnz7PLB8fLFXBwu5exkyixcSqxLpCimM7Gn1!IZVKnfM8hZFAA0mwHUmrAFt8GCeSJ7HwociZoG6xFLbNjGRrb5cbLtY7FnzPUJJo6jFBeBJSr5ODqQGY55DbA1yzwWt6kxPUZYHSpo15dwp2Emfc0v6NTdVf30UlNQ__"
-    ]
-  },
-  {
     "id": 269481,
     "publicado": "2026-09-18",
     "modificado": "2026-09-21",
@@ -3119,31 +3091,6 @@
     ]
   },
   {
-    "id": 277410,
-    "publicado": "2026-09-09",
-    "modificado": "2026-09-24",
-    "direccion": "Calle Arces, 29",
-    "municipio": "Alcorc\u00f3n",
-    "planta": 1,
-    "precio": 1400,
-    "metros": 74,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "E",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks9rE0EUx1!Xpv5opTURRKEoeBJh9lqoF9OKLMRWrASNp8nsuJkwOzOZmU1WikUFLehBqXoTFPSi1LP!g6CHguBFUC8i4g-8CJ6cTTZNWtzTsPO-b76f73vr36GQaChdqjRxGyOORYQW601K7Oy9txceT5lj3ANIFQAUjIZ9g6qylJxi8eaIvvbu0d8fHozUoNDGPKGu2sIeFuOI-k1FI6c7FCnMEROWapRYxg0Ksmsxb-WLG6-!vS-vPvdgtAKjmFtpodR142du!MCJIqpnK1DAgjRkC1ZgrAKl0MxTQzRThEnR62ahOCRcspqJyOl2sbB335WmaitH3r!4-cmzP9dXZxxH0OfQMDXgXUjiOtW31h9Ojz!4eCcPxXtlsqa7XTpVlR-LC2vuhTmpI4QVJg2K4iuXMaEGtRntoOzIqTWIcjQnHVxqT3awpudxdIbahgxPpUpTYxyVCz37RibcBDQczLykmWx7XatyYLx299OvzJSb5WbdoNPTm7eXftc2TnRtO3eHiYyRScT!ugWx4h!OrcxMXLz!M3s5A5zs-HD86HI9MQSHUleZQxEhPpvUOXN!cNltAlLYDbjKjNRXAbYvVT6NlxvVL1-nl0!3l8qzsL-bMZNoMbEqsa6Q4tgOR99bSKVS5zxPYSjQiiTYDqXlwY4AxojkSSwCGOVMULdYCttGRrKzu8t1F-uahcA3lCSa-kwQnoTUb-dgqg!mO-RWH9ds8pru5AR1WaC0YWPemYS9xBm3tHdjU!UPCMskyw__"
-    ]
-  },
-  {
     "id": 277414,
     "publicado": "2026-09-09",
     "modificado": "2026-09-16",
@@ -3404,31 +3351,6 @@
     ]
   },
   {
-    "id": 277435,
-    "publicado": "2026-09-17",
-    "modificado": "2026-09-24",
-    "direccion": "Avda Mari Pepa Colomer, 5",
-    "municipio": "Getafe",
-    "planta": 3,
-    "precio": 1261.47,
-    "metros": 83.61,
-    "dormitorios": 3,
-    "aseos": 2,
-    "cee": "B",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": true,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": true,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLMRWrASNp8nsuJkwOzOZmU1WikUFLehB8eOmKOhFqWf!B0EPBcGLoF5ExA-8CJ6cTTZtWtzTsPM-7zy!531Xv0Mx0VC-UG3hDkYciwgtNFqU2Jk7b889njRHuAeQKgAoGg17NqoqUnKKxZtD-sq7h39!eDBSh2IH84S6agu7WIwj6rcUjZzuQKQwR0xYqlFiGTcoyK7FnJUvrr3-9r6y8tyDQhUKmFtpodxz42du!MCJIqpnqlDEgjRlG5ZhtArl0MxRQzRThEnR72ahNCRctJqJyOl2sLB!35OmajNH3r!0-cmzP1dXph1HMODQMLnBO5!EDapvrD6YGrv!8VYeivfKZE13unRqKj-W5h-5F2aljhBWmDQpii9dxIQa1GG0i7Ijp9YgytGsdHCpPd7Fmp7F0SlqmzI8kSpNjXFULvTsGxl3E9CwP!OSZrKtde3qvrH67U-!MlNulut1G52eXr-5-Lu-dqxn27k7SGSMTCL-1y2IFf9wZnl6!Py9n9nLGeBE14ejh5caiSE4lLrGHIoI8emkwZn7gytuE5DCbsA1ZqS-DLB1qfJpvFyrffk6tXRysFSehb29jJlEC4lViXWFFMd2OPr-QiqVOud5CkOBViXBdigtD7YFMEokT2IRQIEzQd1iKWybGcn23i43XKx3LQS-oSTR1GeC8CSkficHUwMw3yG3B7hmndf0JieoywKlTRvz7gTsJs64pf0bm6p!Hw0k1g__"
-    ]
-  },
-  {
     "id": 277441,
     "publicado": "2026-09-23",
     "modificado": "2026-09-24",
@@ -3577,32 +3499,6 @@
     "trastero": false,
     "imgs": [
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Ui2lFFtZWrASNp8nsuJkwOzOZmU1WikUFLehB8eMmKOhFac!-D4IeCoIXQb2IiB94ETw5u0matLinYed93nl-z!uufYdioqF8KWjiNkYciwgt1puU2Nl7by88mTLHeAEgVQBQNBr2DaoqUnKKxZsj-tq7x39!FGCkBsU25gl11Rb2sBhH1GsqGjndoUhhjpiwVKPEMm6Qn12LeStf3nj97X1l9UUBRgMYxdxKC-XcjZe58XwniqieDaCIBWnIFqzAWADl0MxTQzRThEnR7WahNCRcspqJyOl2sbB7n0tTtZWj17!0-enzP9dXZxyH3-fQMDXgXUjiOtW31h5Njz!8eKcXSuGVyZrudulUVe9YWlh3L8xJHSGsMGlQFF-5jAk1qM1oB2VHTq1BlKM56eBSe7KDNT2PozPUNmR4KlWaGuOoXOjZNzLhJqDhYOYlzWTb61rBgfHa3U-!MlNulpt1g07Pbt5e-l3bOJHbdu4OExkjk4j!dfNjxT-cW5mZuPjgZ!ZyBjjZ8eD40eV6YggOpa4yhyJCfDapc-b-4IrbBKSwG3CVGamvAmxfqt401jeqX75OL5!uL1XBwv48YybRYmJVYl0hxbEdjr67kEqlznkvhaFAA0mwHUqrADt8GCOSJ7HwYZQzQd1iKWwbGcnOfJfrLtb7FnzPUJJo6jFBeBJSr90DU30wzyG3-rhmk9fkkxPUZYHSho15ZxL2Emfc0u6NTdU!P20k5g__"
-    ]
-  },
-  {
-    "id": 277460,
-    "publicado": "2026-09-21",
-    "modificado": "2026-09-24",
-    "direccion": "Calle Aldea del Fresno, 11",
-    "municipio": "Madrid",
-    "distrito": "Arganzuela",
-    "planta": 4,
-    "precio": 1500,
-    "metros": 59,
-    "dormitorios": 2,
-    "aseos": 2,
-    "cee": "F",
-    "mascotas": false,
-    "amueblada": false,
-    "ascensor": true,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!Gpn600poIolAUPIkwey3Ui2mLLKytWAkaT5PZcTNhdmYyM5usFIsKWtCD4sdNUNCLUs!-D4IeCoIXQb2IiB94ETw5u0matLinYed93nl-z!uuf4dioqF8MWjiNkYciwgt1ZuU2Nm7b88!njLHeAEgVQBQNBr2DaoqUnKKxZsj-uq7R39!FGCkBsU25gl11Rb2sBhH1GsqGjndoUhhjpiwVKPEMm6Qn12LeStfXH!97X1l7XkBRgMYxdxKC-XcjZe58XwniqieDaCIBWnIFqzCWADl0MxTQzRThEnR7WahNCRctpqJyOl2sbB7n0tTtZWj17!0-cmzP9fWZhyH3-fQMDXgXUziOtU31x9Ojz!4eLsXSuGVyZrudulUVe9YWlxwL8xJHSGsMGlQFF--hAk1qM1oB2VHTq1BlKM56eBSe7KDNT2Ho9PUNmS4kCpNjXFULvTsG5lwE9BwMPOSZrLtda3gwHjtzqdfmSk3y826QaenN24t!65tnMhtO3eHiYyRScT!uvmx4h!Ors5MXLj!M3s5A5zseHD86Eo9MQSHUleZQxEhPpPUOXN!cMVtAlLYDbjKjNRXALYvVW8aLzeqX75Or5zqL1XBwv48YybRUmJVYl0hxbEdjr67kEqlznkvhaFAA0mwHUqrADt8GCOSJ7HwYZQzQd1iKWwbGcnOfJfrLtZ7FnzPUJJo6jFBeBJSr90DU30wzyG3-rhmk9fkkxPUZYHSho15ZxL2Emfc0u6NTdU!bO4kfg__"
     ]
   },
   {
@@ -4460,6 +4356,28 @@
     ]
   },
   {
+    "id": 277520,
+    "publicado": "2026-10-07",
+    "direccion": "Calle Violas, 8",
+    "municipio": "Madrid",
+    "distrito": "Latina",
+    "planta": 4,
+    "precio": 906,
+    "metros": 57.12,
+    "dormitorios": 2,
+    "aseos": 1,
+    "mascotas": true,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": true,
+    "adaptada": true,
+    "piscina": false,
+    "porteria": false,
+    "trastero": true,
+    "imgs": []
+  },
+  {
     "id": 277521,
     "publicado": "2026-10-06",
     "direccion": "Calle Arregui y Aruej, 5",
@@ -4483,5 +4401,27 @@
     "imgs": [
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYrVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1LP!g6CHguBFUC8i4gdeBE!ObpImLe5p2Hmfd57f875r36GUaKhcDFq4gxHHIkKLjRYldu7u2!OPp80RXgBIFQCUjIY9w6qqlJxi8eaQvvru0d8fBRirQ6mDeUJdtYVdLMYR9VqKRk53IFKYIyYs1SixjBvkZ9diwcoX119!e19dfV6AYgBFzK20UMndeJkbz3eiiOq5AEpYkKZswwqMB1AJzQI1RDNFmBS9bhbKI8Ilq5mInG4HC3v3uTRVmzn6!cufnzz7c2111nH4Aw4N00Pe00ncoPrm2sOZiQcfb!dDKbwyWdOdLp2a6h!Li9i9MC91hLDCpElRfPkSJtSgDqNdlB05tQZRjualg0vt8S7W9ByOTlHblOGJVGlqjKNyoWff2KSbgIb9mZc0k22tawf7Jup3Pv3KTLlZbtQNOz29cWvpd339WG7buTtIZIxMIv7XzY8V!3B2ZXbywv2f2csZ4FTXg6OHlxuJITiUusYcigjxmaTBmfuDq24TkMJuwDVmpL4CsHWp-tN4uV778nVm-eRgqQoW9uYZM4kWE6sS6wopju1o9L2FVCp1zvspjAQaSILtSFoF2ObDOJE8iYUPRc4EdYulsG1mJNvzXW64WO9Z8D1DSaKpxwThSUi9Th9MDcA8h9we4JoNXpNPTlCXBUqbNubdKdhNnHFLezc2Vf8Ap50kmw__"
     ]
+  },
+  {
+    "id": 277523,
+    "publicado": "2026-10-07",
+    "direccion": "Calle Alcal\u00e1, 692",
+    "municipio": "Madrid",
+    "distrito": "San Blas-Canillejas",
+    "planta": 5,
+    "precio": 1200,
+    "metros": 78,
+    "dormitorios": 3,
+    "aseos": 2,
+    "mascotas": true,
+    "amueblada": true,
+    "ascensor": false,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]
