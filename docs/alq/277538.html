@@ -39,10 +39,65 @@
 <li><strong>CEE</strong>G</li>
 
 <li><strong>Publicado</strong>2026-10-15</li>
+<li><strong>Modificado</strong>2026-10-15</li>
 <li class="tags-row">
 <span class="tag tagTrue">#amueblada</span> <span class="tag tagTrue">#calefacion</span> <span class="tag tagFalse">#<del>mascotas</del></span> <span class="tag tagFalse">#<del>ascensor</del></span> <span class="tag tagFalse">#<del>garaje</del></span> <span class="tag tagFalse">#<del>adaptada</del></span> <span class="tag tagFalse">#<del>piscina</del></span> <span class="tag tagFalse">#<del>porteria</del></span> <span class="tag tagFalse">#<del>trastero</del></span> </li>
 </ul>
 </div>
+<div class="piso-imgs">
+<a class="thumb" href="https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYjVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1Kt!hKCHguBFUC8i4gdeBPHgbLJpY3FPw877vPP8nvdd!QqlREPlfNDGXYw4FhGqNduU2Lnbr88-nDaHeAEgVQBQMhp2bVRVpeQUi1cH9OU3D35!K8BYA0pdzBPqqi3sYDGOqNdWNHK6fZHCHDFhqUaJZdwgP7sWC1Y-u!ryy9vqytMCFAMoYm6lhUrfjZe58XwniqieC6CEBWnJDizDeACV0CxQQzRThEkx6GahPCJctJqJyOm2sXBw35em6l-OvH!546Mnv66szDoOf8ihYXqD92QSN6m-vnp!ZuLe-5t5KIUXJmu63aVTV!mxXPvjXpiXOkJYYdKiKL54ARNqUJfRHsqOnFqDKEfz0sGl9mgPa3oGRyeobcnwWKo0NcZRudCzb2zSTUDD3sxLmsk213WCPRONWx9-ZKbcLNfrNjo9vnZj8Wdj7UjftnO3n8gYmUT8r5sfK!7u9PLs5Lm737OXM8CpngeHDy41E0NwKHWdORQR4lNJkzP3B1fdJiCF3YDrzEh9CWDzUuXTeL5W!!R5Zun4cKkKFnb3M2YS1RKrEusKKY7taPSDhVQqdc7zFEYCDSTBdiStAmzxYZxInsTChyJngrrFUti2MpKt!V1uuljvWPA9Q0miqccE4UlIvW4OpoZgnkPuDHHNOq!pT05QlwVKWzbmvSnYSZxxSwc3NlV!Ad8zJTU_" target="_blank"><img alt="Foto del piso 277538" loading="lazy" src="https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFlYjVoLG02R23EyYnZnMzCYrxaKCFvSg-HETFPSi1Kt!hKCHguBFUC8i4gdeBPHgbLJpY3FPw877vPP8nvdd!QqlREPlfNDGXYw4FhGqNduU2Lnbr88-nDaHeAEgVQBQMhp2bVRVpeQUi1cH9OU3D35!K8BYA0pdzBPqqi3sYDGOqNdWNHK6fZHCHDFhqUaJZdwgP7sWC1Y-u!ryy9vqytMCFAMoYm6lhUrfjZe58XwniqieC6CEBWnJDizDeACV0CxQQzRThEkx6GahPCJctJqJyOm2sXBw35em6l-OvH!546Mnv66szDoOf8ihYXqD92QSN6m-vnp!ZuLe-5t5KIUXJmu63aVTV!mxXPvjXpiXOkJYYdKiKL54ARNqUJfRHsqOnFqDKEfz0sGl9mgPa3oGRyeobcnwWKo0NcZRudCzb2zSTUDD3sxLmsk213WCPRONWx9-ZKbcLNfrNjo9vnZj8Wdj7UjftnO3n8gYmUT8r5sfK!7u9PLs5Lm737OXM8CpngeHDy41E0NwKHWdORQR4lNJkzP3B1fdJiCF3YDrzEh9CWDzUuXTeL5W!!R5Zun4cKkKFnb3M2YS1RKrEusKKY7taPSDhVQqdc7zFEYCDSTBdiStAmzxYZxInsTChyJngrrFUti2MpKt!V1uuljvWPA9Q0miqccE4UlIvW4OpoZgnkPuDHHNOq!pT05QlwVKWzbmvSnYSZxxSwc3NlV!Ad8zJTU_"/></a>
+</div>
+<script>
+        document.addEventListener('DOMContentLoaded', function() {
+          var thumbs = Array.from(document.querySelectorAll('.piso-imgs .thumb'));
+          if (!thumbs.length) return;
+          var current = 0;
+
+          var overlay = document.createElement('div');
+          overlay.className = 'lb-overlay';
+          var btnPrev = document.createElement('button');
+          btnPrev.className = 'lb-btn lb-prev';
+          btnPrev.innerHTML = '&#8249;';
+          btnPrev.setAttribute('aria-label', 'Anterior');
+          var img = document.createElement('img');
+          var btnNext = document.createElement('button');
+          btnNext.className = 'lb-btn lb-next';
+          btnNext.innerHTML = '&#8250;';
+          btnNext.setAttribute('aria-label', 'Siguiente');
+          var counter = document.createElement('span');
+          counter.className = 'lb-counter';
+          overlay.appendChild(btnPrev);
+          overlay.appendChild(img);
+          overlay.appendChild(btnNext);
+          overlay.appendChild(counter);
+          document.body.appendChild(overlay);
+
+          function show(idx) {
+            current = (idx + thumbs.length) % thumbs.length;
+            img.src = thumbs[current].href;
+            counter.textContent = (current + 1) + ' / ' + thumbs.length;
+            var multi = thumbs.length > 1;
+            btnPrev.style.visibility = multi ? '' : 'hidden';
+            btnNext.style.visibility = multi ? '' : 'hidden';
+            overlay.classList.add('active');
+          }
+
+          thumbs.forEach(function(a, i) {
+            a.addEventListener('click', function(e) { e.preventDefault(); show(i); });
+          });
+          btnPrev.addEventListener('click', function(e) { e.stopPropagation(); show(current - 1); });
+          btnNext.addEventListener('click', function(e) { e.stopPropagation(); show(current + 1); });
+          overlay.addEventListener('click', function(e) {
+            if (e.target === overlay) overlay.classList.remove('active');
+          });
+          document.addEventListener('keydown', function(e) {
+            if (!overlay.classList.contains('active')) return;
+            if (e.key === 'Escape') overlay.classList.remove('active');
+            if (e.key === 'ArrowLeft')  show(current - 1);
+            if (e.key === 'ArrowRight') show(current + 1);
+          });
+        });
+        </script>
 </article>
 </main>
 <footer>
