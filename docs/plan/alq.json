@@ -4134,5 +4134,28 @@
     "porteria": false,
     "trastero": false,
     "imgs": []
+  },
+  {
+    "id": 277547,
+    "publicado": "2026-10-15",
+    "direccion": "Calle Huerta del Obispo, 15",
+    "municipio": "Madrid",
+    "distrito": "Tetu\u00e1n",
+    "planta": 1,
+    "precio": 1800,
+    "metros": 68,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": false,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": []
   }
 ]
