@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Thu, 15 Oct 2026 19:48:31 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 16 Oct 2026 08:51:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1201,12 +1201,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277510?2026-10-02</guid>
 		</item>
 		<item>
-			<title>2000€ Retiro</title>
+			<title>2100€ Retiro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277512</link>
-			<description>C/ Doctor Esquerdo, 52,&lt;br/&gt;4º con ascensor,&lt;br/&gt;103m², 3 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/277512</description>
-			<pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+			<description>C/ Doctor Esquerdo, 52,&lt;br/&gt;4º con ascensor,&lt;br/&gt;103m², 3 🛏,&lt;br/&gt;2 🛀, 3 📷.&lt;br/&gt;alq/277512</description>
+			<pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
 			<category>Retiro</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277512?2026-10-02</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277512?2026-10-16</guid>
 		</item>
 		<item>
 			<title>1250€ Pozuelo de Alarcón</title>
@@ -1367,6 +1367,14 @@
 			<pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
 			<category>Tetuán</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277547?2026-10-15</guid>
+		</item>
+		<item>
+			<title>1450€ Tetuán</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277550</link>
+			<description>C/ Azucenas, 93,&lt;br/&gt;Bajo con ascensor,&lt;br/&gt;75m², 2 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277550</description>
+			<pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+			<category>Tetuán</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277550?2026-10-16</guid>
 		</item>
 	</channel>
 </rss>
