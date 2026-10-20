@@ -4149,30 +4149,6 @@
     ]
   },
   {
-    "id": 277554,
-    "publicado": "2026-10-16",
-    "direccion": "Calle Luis Ruiz, 61",
-    "municipio": "Madrid",
-    "distrito": "Ciudad Lineal",
-    "planta": 0,
-    "precio": 700,
-    "metros": 55,
-    "dormitorios": 2,
-    "aseos": 1,
-    "mascotas": false,
-    "amueblada": true,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUxIMIs9dCvZhWZCHaYiVoPU1mx82E2ZnJzGyyUiwqaEEPih83QUEvSr36Rwh6KAheBPUiIn7gRfDk7GbTpMU9DTvv887ze9537TuUYg2Vi7UW7mDEsQjRfKNFiZ25-!b840lzlBcAEgUAJaNhz6CqKiWnWLw5pK--e!T3RwFGlqDUwTymrtrCLhbhkHotRUOnOxAqzBETlmoUW8YN8tNrMWfli-uvv72vrj4vQLEGRcyttFDJ3HipG893opDqmRqUsCBN2YYVGK1BJTBz1BDNFGFS9LpZKA8JF61mInS6HSzo3WfSRG3myPuXPz959ufa6rTj8PscGiYHvGfiqEH1zbWHU2MPPt7OQym8MmnTnS6dusqP5YUj7oVZqUOEFSZNiqLLlzChBnUY7aL0yKk1iHI0Kx1cYk90sabncHia2qYMTiZKU2MclQs9!UbG3QQ07E-9JKlsa127tm9s6c6nX6kpN8uNukGnpzduLf5eWj-e2XbuDhIZIROL!3XzI8U!nF2ZHr9w!2f6cgo40fXg2OHlRmwIDqSuM4ciArwQNzhzf3DVbQJS2A24zozUVwC2LlU-jZfr9S9fp5ZP9ZeqYGFvljGTaD62KraukOLIDkffW0ilEuc8T2Eo0Jok2A6lVYBtPowSyeNI-FDkTFC3WArbZkqyPdvlhov1ngXfM5TEmnpMEB4H1OvkYKoP5jnkdh!XbPCabHKCuixQ0rQR707AbuKMW9q7sYn6By4hJF8_"
-    ]
-  },
-  {
     "id": 277557,
     "publicado": "2026-10-19",
     "modificado": "2026-10-19",
@@ -4195,5 +4171,28 @@
     "imgs": [
       "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLEZbrASNp8lk3EyYnZnMzCYrxaKCFvSg-HETFPSi1Kt!hKCHguBFUC8i4gdeBE!ObjZtWtzTsPM-7zy!531Xv0Mx1lC-WG3jLkYcixDNN9qU2Jm7b88!njRHuAeQKAAoGg17NqoqUnKKxZtD-uq7R39!eDBSh2IX85i6agu7WIRD6rcVDZ3uQKgwR0xYqlFsGTcoSK!FnJUvrr!-9r6y8tyDQhUKmFtpoZy58VM3fuBEIdUzVShiQVqyA8swWoVy08xRQzRThEnR72ahNCRctJqJ0Ol2sGb!PpMmajNH3r!0-cmzP9dWph1HMODQMLnBeyaOGlTfXH04Nfbg4-08FO-VSZvudOnUVH4sLZxyL8xKHSKsMGlRFF2-hAk1qMtoD6VHTq1BlKNZ6eASe7yHNT2Hw9PUtmTzRKI0NcZRudDTb2TcTUDD!tRLksq21nWq-8bqdz79Sk25Wa7XbXR6euPW4u!62rHMtnN3kMgImVj8r1sQKf7h7PL0-IX7P9OXU8CJng9HDy81YkNwU-oacyiiiRfiBmfuD664TUAKuwHXmJH6CsDWpcqn8XKt9uXr1NLJwVJ5FvZmGTOJ5mOrYusKKY7scPT9hVQqcc7zFIYCrUqC7VBaHmwLYJRIHkcigAJngrrFUti2UpLt2S43XKz3LAS-oSTW1GeC8LhJ!W4OpgZgvkPuDHDNOq!JJieoywIlLRvx3gTsJs64pf0bm6h!ewUkhQ__"
     ]
+  },
+  {
+    "id": 277560,
+    "publicado": "2026-10-20",
+    "direccion": "Calle Ntra. Sra. de la Torre, 19",
+    "municipio": "Madrid",
+    "distrito": "Villa de Vallecas",
+    "planta": 0,
+    "precio": 970,
+    "metros": 42.21,
+    "dormitorios": 1,
+    "aseos": 1,
+    "cee": "F",
+    "mascotas": false,
+    "amueblada": false,
+    "ascensor": true,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": true,
+    "imgs": []
   }
 ]
