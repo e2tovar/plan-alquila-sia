@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Fri, 23 Oct 2026 14:46:29 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Oct 2026 09:50:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -295,14 +295,6 @@
 			<pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
 			<category>Moncloa-Aravaca</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270312?2026-10-08</guid>
-		</item>
-		<item>
-			<title>900€ Puente de Vallecas</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/270369</link>
-			<description>Av. Pablo Neruda, 87,&lt;br/&gt;3º con ascensor,&lt;br/&gt;67m², 3 🛏,&lt;br/&gt;2 🛀, 1 📷.&lt;br/&gt;alq/270369</description>
-			<pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
-			<category>Puente de Vallecas</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/270369?2026-10-09</guid>
 		</item>
 		<item>
 			<title>1200€ Fuencarral-El Pardo</title>
@@ -993,14 +985,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277476?2026-09-24</guid>
 		</item>
 		<item>
-			<title>1200€ Fuencarral-El Pardo</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277477</link>
-			<description>Cmno Ganapanes, 33,&lt;br/&gt;1º con ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277477</description>
-			<pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-			<category>Fuencarral-El Pardo</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277477?2026-09-24</guid>
-		</item>
-		<item>
 			<title>1200€ Moratalaz</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277481</link>
 			<description>C/ Cgdor. Diego Cabeza de Va, 16,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;70m², 3 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277481</description>
@@ -1071,14 +1055,6 @@
 			<pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
 			<category>Valdemoro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277497?2026-09-30</guid>
-		</item>
-		<item>
-			<title>1300€ Arganzuela</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277503</link>
-			<description>Rda. Segovia, 18,&lt;br/&gt;4º con ascensor,&lt;br/&gt;45m², 3 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/277503</description>
-			<pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-			<category>Arganzuela</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277503?2026-09-30</guid>
 		</item>
 		<item>
 			<title>850€ Chamberí</title>
