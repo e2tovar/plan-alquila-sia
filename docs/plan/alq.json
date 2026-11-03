@@ -2839,31 +2839,6 @@
     ]
   },
   {
-    "id": 277523,
-    "publicado": "2026-10-07",
-    "modificado": "2026-10-08",
-    "direccion": "Calle Alcal\u00e1, 692",
-    "municipio": "Madrid",
-    "distrito": "San Blas-Canillejas",
-    "planta": 5,
-    "precio": 1200,
-    "metros": 78,
-    "dormitorios": 3,
-    "aseos": 2,
-    "mascotas": true,
-    "amueblada": true,
-    "ascensor": false,
-    "calefacion": true,
-    "garaje": false,
-    "adaptada": false,
-    "piscina": false,
-    "porteria": false,
-    "trastero": false,
-    "imgs": [
-      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt!GpH600poIolAUPIkwey3Ui2lFFqIVK0HjaTI7bibMzkxmZpOVYvEDLehB8eMmKOhFqVf!CEEPBcGLoF5ExA-8CJ6c3WyaWNzTsPM-7zy!533XvkEp1lA5X2vjLkYcixAtNtuU2Lk7b84-mjaHeAEgUQBQMhp2DauqUnKKxesD-vLbh3--F2CsAaUu5jF11RZ2sAiH1GsrGjrdvlBhjpiwVKPYMm6Qn16LBSufX3319V119VkBijUoYm6lhUrmxkvdeL4ThVTP1aCEBWnJDqzAeA0qgVmghmimCJOi381CeUS4ZDUTodNtY0H!PpMm6l-OvH!50-Onv6-szjoOf8ChYXrIezKOmlTfWHswM3H!w608lMJLkzbd7tKpq!xYXrzmXpiXOkRYYdKiKLp4ARNqUJfRHkqPnFqDKEfz0sEl9mgPa3oGhyeobcngWKI0NcZRudDTb2zSTUDD3tRLkso213VqeyYatz!-TE25WW7UDTs9uX5z6Vdj!Uhm27nbT2SETCz-182PFH9!emV28ty9H-nLKeBUz4PDB5ebsSE4kLrOHIoI8Km4yZn7g6tuE5DCbsB1ZqS-BLB5qfJpvFivf!4ys3x8sFQFC7uzjJlEi7FVsXWFFEd2NPr-QiqVOOd5CiOB1iTBdiStAmzxYZxIHkfChyJngrrFUti2UpKt2S43Xax3LfieoSTW1GOC8DigXjcHUwMwzyF3Brhmg9dkkxPUZYGSlo14bwp2Emfc0v6NTdRf6k4kvA__"
-    ]
-  },
-  {
     "id": 277524,
     "publicado": "2026-10-08",
     "direccion": "Calle Virgen del Sagrario, 13",
