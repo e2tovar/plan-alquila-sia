@@ -2927,6 +2927,31 @@
     ]
   },
   {
+    "id": 277567,
+    "publicado": "2026-10-21",
+    "direccion": "Calle Matachel, 7",
+    "municipio": "Madrid",
+    "distrito": "Villaverde",
+    "planta": 2,
+    "precio": 780,
+    "metros": 65,
+    "dormitorios": 2,
+    "aseos": 1,
+    "cee": "E",
+    "mascotas": false,
+    "amueblada": true,
+    "ascensor": false,
+    "calefacion": true,
+    "garaje": false,
+    "adaptada": false,
+    "piscina": false,
+    "porteria": false,
+    "trastero": false,
+    "imgs": [
+      "https://gestiona.comunidad.madrid/gpal_inter/rfRes/org.richfaces.resource.MediaOutputResource.jsf?do=eAFtks1rE0EYxt-uSf1opTURRKEoeBJh9lqoF9OKLERbrASNp8lk3EyYnZnMzCYrxaKCFvSg-HETFPSi1KvgvyDooSB4EdSLiPiBF8GTs5tNmxb3NOy8zzvP73nf1e9QjDWUL1TbuIsRxyJE8402JXbmzttzjybNEe4BJAoAikbDno2qipScYvHmkL7y7uHfHx6M1KHYxTymrtrCLhbhkPptRUOnOxAqzBETlmoUW8YNCtJrMWfl82uvv72vrDzzoFCFAuZWWihnbvzUjR84UUj1TBWKWJCW7MAyjFah3DRz1BDNFGFS9LtZKA0JF61mInS6HazZv8-kidrMkfcvfX789M!VlWnHEQw4NExu8J6OowbVN1YfTI3d!3grD8V7adKmO106NZUfSwuv3AuzUocIK0xaFEWXLmJCDeoy2kPpkVNrEOVoVjq4xB7vYU3P4vAUtS3ZPJEoTY1xVC709BsZdxPQsD!1kqSyrXWd6r6x-u1Pv1JTbpbrdRudnly!ufi7vnYss-3cHSQyQiYW!-sWRIp!OLM8PX7-3s!05RRwoufD0cNLjdgQ3JS6xhyKaOKFuMGZ-4MrbhOQwm7ANWakvgywdanyabxYq335OrV0crBUnoW9WcZMovnYqti6QoojOxx9fyGVSpzzPIWhQKuSYDuUlgfbAhglkseRCKDAmaBusRS2rZRke7bLDRfrXQuBbyiJNfWZIDxuUr-bg6kBmO-QOwNcs85rsskJ6rJASctGvDcBu4kzbmn!xibqH1moJPM_"
+    ]
+  },
+  {
     "id": 277568,
     "publicado": "2026-10-21",
     "modificado": "2026-10-22",
