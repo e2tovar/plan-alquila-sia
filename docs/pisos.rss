@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Wed, 11 Nov 2026 13:42:36 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 11 Nov 2026 21:09:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -137,14 +137,6 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/252232?2026-10-26</guid>
 		</item>
 		<item>
-			<title>1200€ Chamberí</title>
-			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/255140</link>
-			<description>C/ María de Guzmán, 3,&lt;br/&gt;5º sin ascensor,&lt;br/&gt;43m², 2 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/255140</description>
-			<pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-			<category>Chamberí</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/255140?2026-11-10</guid>
-		</item>
-		<item>
 			<title>1600€ Retiro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/255416</link>
 			<description>C/ Alcalde Sáinz de Baranda, 30,&lt;br/&gt;4º con ascensor,&lt;br/&gt;54m², 2 🛏,&lt;br/&gt;1 🛀, 1 📷.&lt;br/&gt;alq/255416</description>
@@ -273,12 +265,28 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273069?2026-09-24</guid>
 		</item>
 		<item>
+			<title>1200€ Rivas-Vaciamadrid</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/273947</link>
+			<description>Pl. Madrid, 11,&lt;br/&gt;5º con ascensor,&lt;br/&gt;90m², 4 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/273947</description>
+			<pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+			<category>Rivas-Vaciamadrid</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/273947?2026-11-11</guid>
+		</item>
+		<item>
 			<title>1100€ Centro</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274240</link>
 			<description>C/ Oso, 3,&lt;br/&gt;3º con ascensor,&lt;br/&gt;34m², 1 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/274240</description>
 			<pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
 			<category>Centro</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274240?2026-10-27</guid>
+		</item>
+		<item>
+			<title>1400€ Villa de Vallecas</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/274675</link>
+			<description>C/ Francisco Fatou, 13,&lt;br/&gt;3º sin ascensor,&lt;br/&gt;63m², 1 🛏,&lt;br/&gt;1 🛀, 0 📷.&lt;br/&gt;alq/274675</description>
+			<pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+			<category>Villa de Vallecas</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/274675?2026-11-11</guid>
 		</item>
 		<item>
 			<title>1600€ Ciudad Lineal</title>
@@ -601,12 +609,12 @@
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277446?2026-09-24</guid>
 		</item>
 		<item>
-			<title>1000€ Carabanchel</title>
+			<title>1100€ Carabanchel</title>
 			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277447</link>
 			<description>C/ Castellflorite, 11,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;58m², 3 🛏,&lt;br/&gt;1 🛀, 3 📷.&lt;br/&gt;alq/277447</description>
-			<pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+			<pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
 			<category>Carabanchel</category>
-			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277447?2026-09-16</guid>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277447?2026-11-11</guid>
 		</item>
 		<item>
 			<title>1600€ Rivas-Vaciamadrid</title>
@@ -1159,6 +1167,14 @@
 			<pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
 			<category>Arganzuela</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277613?2026-11-11</guid>
+		</item>
+		<item>
+			<title>1600€ Usera</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277617</link>
+			<description>C/ Evangelios, 11,&lt;br/&gt;2º sin ascensor,&lt;br/&gt;94m², 3 🛏,&lt;br/&gt;2 🛀, 0 📷.&lt;br/&gt;alq/277617</description>
+			<pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+			<category>Usera</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277617?2026-11-11</guid>
 		</item>
 	</channel>
 </rss>
