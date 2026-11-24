@@ -5,7 +5,7 @@
 		<link>https://s-nt-s.github.io/plan-alquila-sia/pisos.rss</link>
 		<description>Lista de pisos del Plan Alquila y el Plan Sia</description>
 		<language>es-ES</language>
-		<lastBuildDate>Mon, 23 Nov 2026 14:06:35 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 24 Nov 2026 02:49:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -911,6 +911,14 @@
 			<pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
 			<category>Villa de Vallecas</category>
 			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277635?2026-11-19</guid>
+		</item>
+		<item>
+			<title>1800€ Latina</title>
+			<link>https://s-nt-s.github.io/plan-alquila-sia/alq/277636</link>
+			<description>C/ Granaderos, 21,&lt;br/&gt;2º con ascensor,&lt;br/&gt;129m², 4 🛏,&lt;br/&gt;3 🛀, 0 📷.&lt;br/&gt;alq/277636</description>
+			<pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+			<category>Latina</category>
+			<guid isPermaLink="true">https://s-nt-s.github.io/plan-alquila-sia/alq/277636?2026-11-23</guid>
 		</item>
 		<item>
 			<title>1600€ Centro</title>
